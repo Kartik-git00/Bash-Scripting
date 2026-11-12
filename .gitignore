@@ -1,0 +1,16 @@
+# Local/private material; intentionally do not blanket-ignore logs or screenshots
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+*.ovpn
+id_rsa
+id_ed25519
+private/
+evidence/raw/
+.DS_Store
+Thumbs.db
+*.swp
+*~
