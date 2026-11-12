@@ -1,0 +1,4 @@
+2026-11-12T09:00:00Z INFO demo service started
+2026-11-12T09:01:00Z WARN demo disk threshold
+2026-11-12T09:02:00Z ERROR demo request failed
+2026-11-12T09:03:00Z INFO demo service healthy
